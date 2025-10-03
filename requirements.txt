@@ -5,3 +5,4 @@ joblib
 ultralytics
 pillow
 xgboost
+opencv-python-headless
