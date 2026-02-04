@@ -1,8 +1,9 @@
 streamlit
-torch
-numpy
-joblib
-ultralytics
+ultralytics==8.2.103
+torch==2.1.2
+torchvision==0.16.2
+opencv-python-headless==4.9.0.80
+numpy<2.0
 pillow
+joblib
 xgboost
-opencv-python-headless
